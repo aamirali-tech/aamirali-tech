@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aamir Ali 👋
 
-<!--
-**aamirali-tech/aamirali-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer | Azure Cloud | Terraform | Infrastructure Automation
 
-Here are some ideas to get you started:
+I'm focused on cloud infrastructure, Infrastructure as Code (IaC), and DevOps automation through hands-on practice and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Cloud:** Microsoft Azure
+- **Infrastructure as Code:** Terraform
+- **Version Control:** Git & GitHub
+- **CI/CD:** Azure DevOps, YAML Pipelines
+- **Operating Systems:** Linux Fundamentals
+
+## 📚 Hands-on Practice
+
+- Terraform variables, lists, sets, and maps
+- `for_each` and nested maps
+- Terraform modules and resource dependencies
+- Azure resource provisioning
+- Terraform state and remote backend fundamentals
+- Git and GitHub workflows
+
+## 🎯 Current Focus
+
+Building a strong foundation in Azure infrastructure, Terraform, and CI/CD automation through practical projects.
+
+## 🌱 Learning Approach
+
+Learn by building, understand the code, document the process, and improve with every project.
+
